@@ -7,3 +7,5 @@ Instructions:
 https://github.com/regak/BadmintonTennisDatasetv2.git
 
 --------------------------------------------------------------------------------------------------------------------
+Article
+https://medium.com/@regak2010/data-augmentation-85e8d4497578
